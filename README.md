@@ -29,7 +29,7 @@ python mini-calculator
 4. follow the on-screen instructions to perfom calculations
 
 # Contributing
-Contributions are welcome! If you fing any bugs or have suggestions for improvements, please open an issues or submit a pull request
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issues or submit a pull request
 
 # Author
 * Developed by : Mouhamed Fall
